@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rasa_extractors"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["4thel00z <4thel00z@gmail.com>"]
 license = "MIT"
@@ -13,7 +13,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.9"
-rasa = "2.8.4"
+rasa = "2.8.8"
 flashtext = "^2.7"
 
 [tool.poetry.dev-dependencies]
